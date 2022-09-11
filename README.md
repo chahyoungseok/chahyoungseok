@@ -1,7 +1,6 @@
 ## 👋 Intro
 Hi there! I'm a college student and recently dreamed of becoming a backend developer!<br>
-My goal is to become a seasoned developer who constantly studies! Look forward to it!<br>
-If you have any questions about the thesis, please contact "xcohdsuts@gmail.com"!
+My goal is to become a seasoned developer who constantly studies! Look forward to it!
 
 ## 💻 My Stack
 <p align="left">
