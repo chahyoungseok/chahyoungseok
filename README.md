@@ -9,7 +9,7 @@ My goal is to become a seasoned developer who constantly studies! Look forward t
 <img src="https://img.shields.io/badge/Php-003399?style=flat-square&logo=Php&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Jsp-663333?style=flat-square&logo=Jsp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-3DDC84?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
