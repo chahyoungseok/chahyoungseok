@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chahyoungseok&langs_count=8&layout=compact&theme=dark)](https://github.com/chahyoungseok/chahyoungseok)﻿
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaHyoungSeok&theme=buefy&show_icons=true)
-
