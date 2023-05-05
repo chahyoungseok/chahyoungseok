@@ -8,6 +8,8 @@
 
 📚 현재는 [스터디 매칭 서비스](https://github.com/Team-studywithme/studyWithMe-BackEnd)를 개발중에 있습니다.
 
+💬 컨퍼런스 영상을 보며 배운점을 [기록](https://mirr-coding.tistory.com/category/Conference)해 나가고 있습니다.
+
 📈 문제 해결 능력과 새로운 기술을 빠르게 습득하기 위해 [알고리즘](https://github.com/chahyoungseok/Algorithm)을 풀어나가고 있습니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodus1623)](https://solved.ac/xodus1623/)
