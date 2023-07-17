@@ -2,7 +2,7 @@
 
 📝 새롭게 배우거나 기존에 알고있던 내용들을 [블로그](https://mirr-coding.tistory.com)에 정리해나가고 있습니다.
 
-🛍️ 독특한 아이디어보단 백엔드 개발의 기본기를 잘 배울 수 있는 [프로젝트](https://github.com/Team-studywithme)와 [스터디 매칭 서비스](https://github.com/Team-studywithme)를 진행하였습니다. 
+🛍️ 독특한 아이디어보단 백엔드 개발의 기본기를 잘 배울 수 있는 [쇼핑몰 프로젝트](https://github.com/Team-Shoppy)와 [스터디 매칭 서비스](https://github.com/Team-studywithme)를 진행하였습니다. 
 
 📚 Real MySQL 책을 공부하고있습니다.
 
